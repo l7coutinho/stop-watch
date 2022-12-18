@@ -10,7 +10,6 @@ const resetTimer = document.querySelector(".reset");
 let miliNum = 0
 let secNum = 0
 let minNum = 0
-let INTERVALO
 
 
 
